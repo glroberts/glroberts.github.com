@@ -201,7 +201,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../../../header5.jpg) no-repeat center top;
+	background: url(../../../header7.png) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
@@ -341,7 +341,7 @@ input {
 
 /* HEADER 2 - PORTFOLIO SECTION */
 #h2 {
-	background: url(../img/header-2.jpg) no-repeat center top;
+	background: url(../../../cuheader.jpg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
