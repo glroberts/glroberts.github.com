@@ -339,8 +339,8 @@ input {
 	color: white;
 }
 
-/* HEADER 2 - PORTFOLIO SECTION */
-#h2 {
+/* HEADER CU - PORTFOLIO SECTION */
+#hcu {
 	background: url(../../../cuheader.jpg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
@@ -360,19 +360,133 @@ input {
     color: white;
 }
 
-#h2 .logo {
+#hcu .logo {
 	margin-top: 30px;
 	margin-left: 40px;
 	padding-bottom: 150px;
 }
 
-#h2 .logo h2{
+#hcu .logo h2{
 	font-weight: 900;
 	color: white;
 	letter-spacing: 1px;
 }
 
-#h2 h3 {
+#hcu h3 {
+	margin-top: 30px;
+	letter-spacing: 1px;
+}
+
+/* HEADER rr - PORTFOLIO SECTION */
+#hrr {
+	background: url(../../../rrheader.jpg) no-repeat center top;
+	padding-top: 5px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 700px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+#hrr .logo {
+	margin-top: 30px;
+	margin-left: 40px;
+	padding-bottom: 150px;
+}
+
+#hrr .logo h2{
+	font-weight: 900;
+	color: white;
+	letter-spacing: 1px;
+}
+
+#hrr h3 {
+	margin-top: 30px;
+	letter-spacing: 1px;
+}
+
+/* HEADER RV - PORTFOLIO SECTION */
+#hrv {
+	background: url(../../../rvheader.jpg) no-repeat center top;
+	padding-top: 5px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 700px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+#hrv .logo {
+	margin-top: 30px;
+	margin-left: 40px;
+	padding-bottom: 150px;
+}
+
+#hrv .logo h2{
+	font-weight: 900;
+	color: white;
+	letter-spacing: 1px;
+}
+
+#hrv h3 {
+	margin-top: 30px;
+	letter-spacing: 1px;
+}
+
+/* HEADER MF - PORTFOLIO SECTION */
+#hmf {
+	background: url(../../../mfheader.jpg) no-repeat center top;
+	padding-top: 5px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 700px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+#hmf .logo {
+	margin-top: 30px;
+	margin-left: 40px;
+	padding-bottom: 150px;
+}
+
+#hmf .logo h2{
+	font-weight: 900;
+	color: white;
+	letter-spacing: 1px;
+}
+
+#hmf h3 {
 	margin-top: 30px;
 	letter-spacing: 1px;
 }
