@@ -41,8 +41,17 @@ p {
 	font-weight: 300;
 	font-size: 18px;
 	line-height: 28px;
-	color: #666;
+	color:#333333;
 	margin-top: 10px;
+}
+
+ol {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color:#333333;
+	margin-left: 3em;
 }
 
 html,
